@@ -1,5 +1,5 @@
 # Python-Project
-Student Score Analysis
+# Student Score Analysis
 Data analysis project on Student Performance Analysis using Python, Pandas, and PDFPlumber !
 
 From extracting table data from a PDF to analysing academic performance — I explored how subject-wise marks contribute to overall scores and ranking.
